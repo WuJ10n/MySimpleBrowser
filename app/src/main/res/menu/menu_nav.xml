@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/g1">
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/lishijilu"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/shoucangjia"
+            android:title="@string/favorites" />
+    </group>
+
+    <group android:id="@+id/g2">
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/quanping"
+            android:title="@string/fullScreenOn" />
+        <item
+            android:id="@+id/item4"
+            android:icon="@drawable/chuangkouhua"
+            android:title="@string/fullScreenOff" />
+
+    </group>
+
+    <group android:id="@+id/g3">
+        <item
+            android:id="@+id/item5"
+            android:icon="@drawable/wutu"
+            android:title="@string/PICOn" />
+        <item
+            android:id="@+id/item6"
+            android:icon="@drawable/tupian"
+            android:title="@string/NoPICOff" />
+
+    </group>
+
+    <group android:id="@+id/g4">
+        <item
+            android:id="@+id/item7"
+            android:icon="@drawable/hengping"
+            android:title="@string/landscapeMode" />
+        <item
+            android:id="@+id/item8"
+            android:icon="@drawable/shuping"
+            android:title="@string/verticalMode" />
+    </group>
+    <group android:id="@+id/g5">
+        <item
+            android:id="@+id/item9"
+            android:icon="@drawable/baocun"
+            android:title="@string/savePage" />
+        <item
+        android:id="@+id/item10"
+        android:icon="@drawable/bubaocun"
+        android:title="@string/noSavePage" />
+    </group>
+</menu>

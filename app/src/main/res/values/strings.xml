@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MySimpleBrowser</string>
+    <string name="InternetIcon">互联网图标</string>
+    <string name="webUrl_hint">请输入网址</string>
+    <string name="refresh">刷新</string>
+    <string name="goBack">上一页</string>
+    <string name="homepage">首页</string>
+    <string name="goForward">下一页</string>
+    <string name="home_url">https://www.baidu.com/</string>
+    <string name="history">历史记录</string>
+    <string name="favorites">收藏夹</string>
+    <string name="menu">菜单</string>
+    <string name="nav">导航</string>
+    <string name="fullScreenOff">全屏模式关闭</string>
+    <string name="fullScreenOn">全屏模式开启</string>
+    <string name="NoPICOff">无图模式关闭</string>
+    <string name="PICOn">无图模式开启</string>
+    <string name="landscapeMode">切换至横屏模式</string>
+    <string name="verticalMode">切换至竖屏模式</string>
+    <string name="savePage">网页缓存开启</string>
+    <string name="favorite">收藏</string>
+    <string name="noSavePage">网页缓存关闭</string>
+    <string-array name="收藏夹名">
+        <item>默认收藏夹</item>
+        <item>论坛</item>
+        <item>工具</item>
+        <item>视频</item>
+        <item>音乐</item>
+        <item>课程</item>
+    </string-array>
+</resources>
